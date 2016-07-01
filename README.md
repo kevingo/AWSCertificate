@@ -1,4 +1,4 @@
-# AWSCertificate
+# AWS Certificate
 
 *Those are my personal notes on AWS Solution Architect certification preparation. Hope you find them usefull.*
 
@@ -16,8 +16,7 @@ If you do not have prior hands-on experience and knowledge or you have little kn
  2. Read the docs
  3. Courses & labs
  4. Videos
- 5. Books
- 6. Articles 
+ 5. Articles 
 
 ### 1. Getstarted with AWS free-tier account
 Sign-up for the [free-tier](https://aws.amazon.com/free/) and test as much as you can for free. Play around the basic services, create lot's of resources and example apps on java, php, ruby or other platform.
@@ -40,11 +39,7 @@ Read as much as you can the online documentation, including but not limited:
 ### 4. Videos
  * [AWS Masterclass](https://www.youtube.com/playlist?list=PLFifP_HeKxFk8hr-LA5XDlFfHOMosQJYp)
 
-### 5. Read books on the topic
- * [AWS in Action](https://www.manning.com/books/amazon-web-services-in-action)
- * [High performance Browser Networking](http://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763)
-
-### 6. Read additional materials, posts and articles
+### 5. Read additional materials, posts and articles
  * [Awesome AWS](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.
  * [Beginner guide to scaling on AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html) - How do you scale a system from one user to more than 11 million users? Find out in the link.
  * [AWS Certified Solutions Architect - Associate 考試心得分享](https://stephonchen.blogspot.tw/2016/06/aws-certified-solutions-architect.html)

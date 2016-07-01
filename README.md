@@ -40,7 +40,6 @@ Read as much as you can the online documentation, including but not limited:
 ### 4. Videos
  * [AWS Masterclass](https://www.youtube.com/playlist?list=PLFifP_HeKxFk8hr-LA5XDlFfHOMosQJYp)
 
-
 ### 5. Read books on the topic
  * [AWS in Action](https://www.manning.com/books/amazon-web-services-in-action)
  * [High performance Browser Networking](http://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763)
@@ -48,6 +47,7 @@ Read as much as you can the online documentation, including but not limited:
 ### 6. Read additional materials, posts and articles
  * [Awesome AWS](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.
  * [Beginner guide to scaling on AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html) - How do you scale a system from one user to more than 11 million users? Find out in the link.
+ * [AWS Certified Solutions Architect - Associate 考試心得分享](https://stephonchen.blogspot.tw/2016/06/aws-certified-solutions-architect.html)
 
 ### My public profiles for the training websites:
 

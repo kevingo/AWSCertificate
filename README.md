@@ -1,6 +1,5 @@
 # AWSCertificate
 
-# AWS Certification notes
 *Those are my personal notes on AWS Solution Architect certification preparation. Hope you find them usefull.*
 
 To pass AWS certification, you should have:
